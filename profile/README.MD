@@ -1,88 +1,67 @@
-# 🌟 **Bed Wars Center – Developer Hub**
+# **BedWars Center – Developer Hub**
 
-Welcome to the official developer space of **BedWars Center**!
-We're building a modern, secure, and community-driven Bed Wars experience — and we're excited to grow this project together with contributors like you.
-
-Whether you're here to explore, contribute, or learn how we build things, you're in the right place.
+Welcome to the developer side of **BedWars Center**.
+This space is for the people who help build, improve, and shape the technical foundation of the project.
 
 ---
 
-## 🧱 **What Is BedWars Center?**
+## **About the Project**
 
-BedWars Center is a Minecraft Bed Wars project created by passionate developers and competitive players in 2024.
-Our mission is simple:
+BedWars Center started in 2024 with a simple idea:
+**build a fair, secure, and community-shaped BedWars experience.**
 
-> **Create a fair, innovative, and community-shaped Bed Wars ecosystem.**
-
-This repository contains developer-centered resources, documentation, and standards that power the project.
-For further details, please visit our website.
+This repository exists to organize our developer resources, documentation, and internal standards.
+If you want to learn more about the project itself, you can always check our website for the full story.
 
 ---
 
-## 🤝 **A Development Community Built on Collaboration**
+## **How We Work**
 
-Our development culture is shaped around openness, communication, and teamwork.
+We keep development as open and straightforward as possible.
+You’ll find things like:
 
-### ✔️ What We Share Openly
+* General systems
+* Public APIs
+* Documentation
+* Coding guidelines
+* Shared libraries
 
-We openly provide:
+These parts are available for contributors who want to understand or extend the project.
 
-* Reusable libraries
-* Public APIs and integration examples
-* Non-sensitive server logic
-* Developer documentation
-* Contribution and coding standards
-* Community-informed roadmaps
-
-We aim to help every contributor feel informed and empowered.
-
-### ❌ What Stays Private
-
-To protect the server and ensure fair gameplay, some components are intentionally **not** open-source:
+Some areas, however, stay private for security reasons, including:
 
 * Anti-cheat internals
-* Packet validation & detection logic
-* Security heuristics and triggers
+* Packet verification logic
+* Security checks and detection models
 * Infrastructure configurations
-* DDoS, exploit & performance protection systems
+* Protection and performance systems
 
-These systems remain private to maintain server integrity and prevent abuse.
-
----
-
-## 🔒 **Security Principles**
-
-Security is one of our highest priorities.
-
-We use a layered security approach involving:
-
-* Behavioral analysis
-* Server-side validation
-* Private monitoring systems
-* Internal review pipelines
-* Fast-response patching
-
-These components are kept internal but constantly improved to ensure a safe environment for everyone.
+These are kept closed to protect server integrity and prevent misuse.
 
 ---
 
-## 💬 **Developer Participation**
+## **Security**
 
-We value developers who want to help shape the future of BedWars Center.
-You can contribute by:
-
-* Reporting issues
-* Suggesting improvements
-* Opening pull requests
-* Expanding documentation
-* Sharing ideas and prototypes
-* Giving technical feedback
-
-Everyone is welcome to participate as long as community guidelines are respected.
+Security is one of our top priorities.
+We use server-side validation, behavior analysis, and internal monitoring systems to keep the environment safe.
+These components are maintained privately and updated regularly.
 
 ---
 
-## 📚 **More Information**
+## **Contributing**
 
-For additional details, extended documentation, and future updates,
-**please visit our website**.
+If you’d like to get involved, you’re welcome to:
+
+* Report issues
+* Suggest improvements
+* Submit pull requests
+* Help with documentation
+
+We build this project together — community feedback and contributions matter.
+
+---
+
+## **More Info**
+
+For more detailed information and extended documentation,
+**please visit our website.**
